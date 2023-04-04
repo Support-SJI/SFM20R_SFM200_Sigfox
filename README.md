@@ -59,7 +59,7 @@ In addition to them, Seongji SDK has been created into the __development/SFM__ d
 ```
 SFM20R : MODEL_NAME to "SFM20R" and MODULE_TYPE to CDEV_MODULE_SFM20R
 SFM60R : MODEL_NAME to "SFM60R" and MODULE_TYPE to CDEV_MODULE_SFM60R
-SRM200A : MODEL_NAME to "SRM200" and MODULE_TYPE to CDEV_MODULE_SRM20
+SRM200A : MODEL_NAME to "SRM200" and MODULE_TYPE to CDEV_MODULE_SRM200
 ```
 ##### Device Defines (need to modify CDEV_BOARD_TYPE)
 ```
@@ -79,6 +79,9 @@ SRM200A : MODEL_NAME to "SRM200" and MODULE_TYPE to CDEV_MODULE_SRM20
 ```
 eg. SFM20R EVB
 development/SFM/demoApp/changeConfig_SFM20R_EVB.cmd
+
+eg. SRM200A EVB
+development/SFM/demoApp/changeConfig_SRM200A_EVB.cmd
 ```
 
 ### Flashing the module
