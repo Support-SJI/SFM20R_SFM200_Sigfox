@@ -6,6 +6,7 @@ The EVK also comes with an NFC tag.
 The main core of the module is based on the Nordic nRF52832 SOC. 
 Seongji has developed an application layer on top of Nordic SDK to interact with all connectivity blocks and sensors. 
 BLE can be directly programmed using Nordic SDK directives as it is embedded into the nRF52 chip.
+- [Product Documents](product_documents/)
 - [nRF52 SDK Version Infomation](sdk_version.txt)
 - Projects
   - development/SFM/demoApp : Basic Demo Application
